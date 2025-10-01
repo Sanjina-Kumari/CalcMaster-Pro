@@ -1,5 +1,7 @@
 # CalcMaster-Pro
-Your smart expression evaluator that thinks like a mathematician!  A Java-based expression parser that calculates complex mathematical expressions with proper operator precedence and stack-based evaluation.
+Your smart expression evaluator that thinks like a mathematician!  
+
+A Java-based expression parser that calculates complex mathematical expressions with proper operator precedence and stack-based evaluation.
 
 # Overview
 CalcMaster Pro takes any mathematical expression with operators (+, -, *, /, ^) and calculates the result using stack-based algorithms that respect mathematical order of operations. It's like having a smart calculator that understands complex expressions!
