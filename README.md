@@ -72,11 +72,11 @@ CalcMaster Pro takes any mathematical expression with operators (+, -, *, /, ^) 
 
 #  Project Structure
 
-  CalcMasterPro/
-  ├── src/
-  │   ├── Main.java                 # Interactive console interface
-  │   └── ExpressionEvaluator.java  # Core parsing and evaluation logic
-  └── README.md
+      CalcMasterPro/
+      ├── src/
+      │   ├── Main.java                 # Interactive console interface
+      │   └── ExpressionEvaluator.java  # Core parsing and evaluation logic
+      └── README.md
 
 # How to Use
 - Run the program in your Java environment
