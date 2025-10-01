@@ -52,23 +52,23 @@ CalcMaster Pro takes any mathematical expression with operators (+, -, *, /, ^) 
     // Enter expressions like: "5 + 3 * 2 ^ 2"
 
 # Operator Precedence
-    Operator	Precedence	Description
-    ^	3	Exponentiation (highest)
-    *, /	2	Multiplication, Division
-    +, -	1	Addition, Subtraction (lowest)
+        Operator	Precedence	Description
+        ^	3	Exponentiation (highest)
+        *, /	2	Multiplication, Division
+        +, -	1	Addition, Subtraction (lowest)
 
 #  Example Expressions
 ## Input:
-
-  "2 + 3 * 4"
-  "10 - 3 ^ 2"
-  "8 / 2 * 2 + 1"
+    
+      "2 + 3 * 4"
+      "10 - 3 ^ 2"
+      "8 / 2 * 2 + 1"
 
 ## Output:
 
-  Result: 14
-  Result: 1
-  Result: 9
+      Result: 14
+      Result: 1
+      Result: 9
 
 #  Project Structure
 
